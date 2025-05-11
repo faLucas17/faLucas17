@@ -8,6 +8,9 @@
 - ⚡ Fun fact : **J'adore les Challenges/ coding !**
 
 ## 🎓 Éducation
-**Master 1 en Sciences de Données Appliquées**  
+**Master 1 en Informatique**  
+Spécialisation en **Génie - Logiciel**  
+**Université IBA DER THIAM, Thiès**  2024 - 2025
+**Master 2 en Sciences de Données Appliquées**  
 Spécialisation en **Statistiques, Économétrie et Modélisation**  
-**Université IBA DER THIAM, Thiès**
+**Université IBA DER THIAM, Thiès** 2024 - 2025
