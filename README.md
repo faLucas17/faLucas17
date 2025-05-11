@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @faLucas17 GEEK DU CODE ET DES STATS
+# 👋 Salut, je suis @fatoufall GEEK DU CODE ET DES STATS
 
 - 👀 Je m'intéresse à **l'analyse de données, la modélisation statistique et le développement web.**
 - 🌱 Je suis actuellement en train d'apprendre **des techniques avancées en science des données et des langages de programmation.**
